@@ -1,3 +1,29 @@
+A React Native application built with Expo that provides AI-powered article search and querying capabilities.
+
+## Features
+- Article browsing and search
+- AI-powered article querying
+- Clean, modern UI
+- Cross-platform (iOS/Android)
+
+## Tech Stack
+- React Native
+- Expo
+- Python FastAPI Backend
+- Haystack Framework
+- DistilBERT Model
+
+## Getting Started
+\`\`\`bash
+# Install dependencies
+npm install
+
+# Start the app
+npx expo start
+\`\`\`
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
